@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Soy FullStack JavaScript Developer con muchas ganas de emprender nuevos desafios.
 - 🔭 Me encuentro en constante aprendizaje, ya que creo que en este rubro el aprender es algo cotidiano.
 - 👯 He colaborado en proyectos como por ejemplo un ecommerce de venta de canciones.
 - 📫 Podes contactarte a traves de mi email bessone98@gmail.com
