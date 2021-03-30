@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 Podes contactarte a traves de mi email bessone98@gmail.com
 - ⚡ Otra forma en la que podemos contactarnos es a traves de mi linkedin https://www.linkedin.com/in/agustin-bessone-5b798317b/
 
-[![Agustin GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinBessone32)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinBessone32&show_icons=true&theme=dark)
