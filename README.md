@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 Soy FullStack JavaScript Developer con muchas ganas de emprender nuevos desafios.
 - 🔭 Me encuentro en constante aprendizaje, ya que creo que en este rubro el aprender es algo cotidiano.
-- 👯 He colaborado en proyectos como el de un ecommerce de venta de canciones, una aplicacion de una billetera digitral. además tengo proyectos propios como la app del clima, total pelis y te-fio (en desarrollo)
-- 📫 Podes contactarte a traves de mi email bessone98@gmail.com
-- ⚡ Otra forma en la que podemos contactarnos es a traves de mi linkedin https://www.linkedin.com/in/agustin-bessone-5b798317b/
+- 👯 He colaborado en proyectos como el de un ecommerce de venta de canciones, una aplicacion de una billetera digital. además tengo proyectos propios como la app del clima, total pelis y te-fio (en desarrollo).
+- 📫 Podes contactarte a traves de mi email: bessone98@gmail.com.
+- ⚡ Otra forma en la que podemos comunicarnos es a traves de mi linkedin https://www.linkedin.com/in/agustin-bessone-5b798317b/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinBessone32&show_icons=true&theme=dark)
