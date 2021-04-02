@@ -1,4 +1,5 @@
 ### Hola 👋 , mi nombre es Agustin Bessone
+![Blue and White Technology LinkedIn Banner](https://user-images.githubusercontent.com/72458804/113460301-9cf91080-93ee-11eb-9d20-2aef0e7ce5b8.png)
 
 <!--
 **AgustinBessone32/AgustinBessone32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
