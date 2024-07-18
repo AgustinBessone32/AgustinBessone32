@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 👯 He colaborado en proyectos como el de un ecommerce de venta de canciones, una aplicacion de una billetera digital. además tengo proyectos propios como la app del clima, total pelis y te-fio (en desarrollo).
 - 📫 Podes contactarte a traves de mi email: bessone98@gmail.com.
 - ⚡ Otra forma en la que podemos comunicarnos es a traves de mi linkedin https://www.linkedin.com/in/agustin-bessone-5b798317b/
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinBessone32&show_icons=true&theme=dark)
